@@ -12,6 +12,10 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 > **本项目为 RimWorld 官方中文语言包，由 Ludeon 工作室创建，翻译均由社区无偿贡献。**
 
+## 贡献
+
+提交到本仓库 master 分支的拉取请求须通过 translation-checks 自动检查。
+
 ## 下载
 
 ### 稳定版 1.5
