@@ -100,3 +100,5 @@ http://ludeon.com/forums/index.php?topic=2933.0
 * 百度贴吧 [RimWorld 吧](http://tieba.baidu.com/f?kw=rimworld)
 * 翻译工具 [RimTrans](https://github.com/duduluu/RimTrans)
 * 饼叔的游戏笔记 [GameJiLu.com](https://gamejilu.com/project/rimworld)
+
+QQ 桥接测试成功
